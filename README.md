@@ -28,9 +28,9 @@ I was formerly an intern for AI Colab under Georgetown University and MedStar He
 
 Data storytelling | data analysis | machine learning | natural language processing
 
-- 🔭 I’m currently working on a natural language processing project, and another machine learning project too
-- 🌱 I’m currently learning natural language processing, time series analysis
+- 🔭 I’m currently working on an individual machine learning project
+- 🌱 I’m currently learning time series analysis
 - 💬 Ask me about data driven solutions, storytelling with data, journalism
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: LinkedIn or email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born on halloween
